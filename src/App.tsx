@@ -3,7 +3,7 @@ import { useState, useEffect } from 'react';
 const photos = [
   {
     url: '/images/romantic1.jpg',
-    caption: 'Sunset indah bersamamu 🌅',
+    caption: 'kesukaan yay ed 🌅',
   },
   {
     url: '/images/romantic2.jpg',

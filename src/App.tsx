@@ -109,7 +109,7 @@ export default function App() {
           </h2>
 
           <p className="mb-12 text-center text-rose-400">
-            Foto-foto yang menyimpan cerita cinta
+            Foto-foto yang menyimpan cerita cinta janda
           </p>
 
           <div className="grid gap-6 md:grid-cols-3">

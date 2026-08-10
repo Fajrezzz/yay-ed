@@ -2,16 +2,16 @@ import { useState, useEffect } from 'react';
 
 const photos = [
   {
-    url:'/image/romantic1.jpg',
+    url: '/image/romantic1.jpg',
     caption: 'kesukaan yay ed 🌅',
   },
   {
-    url:'/image/romantic2.jpg',
-    caption: 'Mawar merah untukmu 🌹',
+    url: '/image/romantic2.jpg',
+    caption: 'Mawar merah untuk janda yay ed🌹',
   },
   {
-    url:'/image/romantic3.jpg',
-    caption: 'Bintang & bulan, cahaya cinta kita ✨',
+    url: '/image/romantic3.jpg',
+    caption: 'yay ed emang the best ✨',
   },
 ];
 

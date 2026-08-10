@@ -72,13 +72,13 @@ export default function App() {
           </h1>
 
           <p className="mb-2 text-lg text-rose-500/80 md:text-xl">
-            Sebuah halaman kecil untuk momen spesial kita
+            Sebuah halaman kecil untuk momen spesial yay ed
           </p>
 
           <div className="mx-auto mt-8 h-px w-32 bg-gradient-to-r from-transparent via-rose-400 to-transparent" />
 
           <p className="mt-6 text-sm italic text-rose-400">
-            &ldquo;Setiap detik bersamamu adalah puisi yang tak pernah
+            &ldquo;Setiap detik bersama janda adalah puisi yang tak pernah
             berakhir.&rdquo;
           </p>
         </div>

@@ -221,13 +221,11 @@ export default function App() {
             </h2>
 
             <p className="leading-relaxed text-rose-600/80">
-              Terima kasih sudah menjadi bagian terindah dalam hidupku.
-              Setiap hari bersamamu adalah anugerah yang tak ternilai.
-              Website kecil ini adalah cara sederhanaku untuk bilang...
+              orang bilang fuad sj (spesialis janda) 
             </p>
 
             <p className="mt-6 font-serif text-3xl font-bold text-rose-600">
-              Aku sayang kamu 💕
+              mantap yay ed
             </p>
 
           </div>
@@ -237,7 +235,7 @@ export default function App() {
       {/* ================= FOOTER ================= */}
       <footer className="relative z-10 border-t border-rose-200/50 bg-white/50 py-8 text-center backdrop-blur-sm">
         <p className="text-sm text-rose-400">
-          Made with 💕 for Yay Ed &mdash; 2024
+          Made with 💕 for Yay Ed &mdash; 2026
         </p>
       </footer>
 
